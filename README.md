@@ -35,10 +35,10 @@
                 </div>
                  <br>
                     <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielNT7&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="murlloy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BiellNonato&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="BiellNonato" />
 </p>
         <br>
-        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gabrielNT7&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="murlloy" /></p>
+        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=BiellNonato&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="BiellNonato" /></p>
             </div>
         </td>
 </section>
